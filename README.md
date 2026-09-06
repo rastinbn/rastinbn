@@ -147,11 +147,6 @@ A gaming store platform with product management and database integration.
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ratinbn/ratinbn/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
